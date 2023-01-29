@@ -1,1 +1,1 @@
-# offline-page-injector
+# Offline Page Injector
